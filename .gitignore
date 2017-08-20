@@ -5,7 +5,7 @@
 .classpath
 
 .idea
-.iml
+*.iml
 
 bin/
 
